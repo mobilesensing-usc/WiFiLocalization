@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DataCollection!</string>
+    <string name="app_name">DataCollection</string>
+<string name="activity">Choose an activity</string>
+<string name="position">Position</string>
+<string name="menu_start">Start</string>
+<string name="menu_stop">Stop</string>
+<string name="menu_exit">Exit</string>
+<string name="menu_extract">Extract</string>
+</resources>

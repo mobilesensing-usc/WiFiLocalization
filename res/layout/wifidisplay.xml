@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+  
+<!--  <Spinner android:id="@+id/spinnerPosition" android:layout_width="wrap_content" android:layout_height="wrap_content"></Spinner>-->
+<EditText android:id="@+id/locationNo" android:layout_width="fill_parent" android:layout_height="100px"></EditText>
+<Button android:text="Get Wifi Signals" android:id="@+id/Capture" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>  
+<ListView android:id="@+id/wifiList" android:layout_width="wrap_content" android:layout_height="wrap_content"></ListView>
+
+
+</LinearLayout>

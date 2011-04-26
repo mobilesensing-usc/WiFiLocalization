@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    >
+     <Spinner 
+        android:id="@+id/spinnerPerson"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:prompt="@string/activity"
+    />
+     <Spinner 
+        android:id="@+id/spinnerPosition"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:prompt="@string/activity"
+    />
+ <Spinner 
+        android:id="@+id/spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:prompt="@string/activity"
+    />
+   <EditText android:id="@+id/timeText" android:layout_width="fill_parent" android:layout_height="100px"></EditText>
+    
+<TextView android:text="@+id/timestamp1" android:id="@+id/timestamp1" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:text="@+id/txtfirefly" android:id="@+id/txtfirefly" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:text="@+id/txtheart" android:id="@+id/txtheart" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView android:text="@+id/txtCalibration" android:id="@+id/txtCalibration" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+
+</LinearLayout>

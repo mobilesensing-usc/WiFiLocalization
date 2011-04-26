@@ -1,0 +1,44 @@
+
+<resources>
+
+    <string-array name="activitytype">
+    	<!--  <item>Compass-data</item>
+       <item>Long-term-Walking</item>-->
+       <item>Walking</item>       
+       <!--  <item>Up the Stairs</item>
+       <item>Down the Stairs</item>
+        <item>Running</item>
+        <item>Biking</item>
+        <item>Sitting</item>
+        <item>Standing</item>
+        <item>Automobile</item>
+        -->
+        
+       
+        
+        
+    </string-array>
+     <string-array name="position">
+     	<item>LeftHip</item>
+     	<item>LeftPocket</item>
+        <item>RightHip</item>
+        
+        <item>RightPocket</item>
+    </string-array>
+    <string-array name="person">
+    
+    <item>Harsh</item>
+    <item>Antal</item>
+    <item>Anupam</item>
+    <item>Ankit</item>
+    <item>Gokul</item>
+    </string-array>
+    <string-array name="wifiPositions">
+    <item>InsidetheLab</item>
+    <item>Corner1</item>
+    <item>Corner2</item>
+    <item>Corner3</item>
+    <item>Corner4</item>
+    <item>EndoftheCorridoor</item>
+    </string-array>
+</resources>
