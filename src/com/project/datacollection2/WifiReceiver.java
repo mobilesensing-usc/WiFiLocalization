@@ -40,6 +40,10 @@ public class WifiReceiver extends BroadcastReceiver{
 	public int LittleDog=0;
 	public int Fusion=0;
     
+	/**
+	 * Test upload.
+	 * @param wifiDisplay
+	 */
 	public WifiReceiver(DataCollection wifiDisplay){
 		wifi=wifiDisplay;
 		
